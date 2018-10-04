@@ -1,4 +1,4 @@
-FROM quay.io/acobaugh/cfengine:3.10.3
+FROM quay.io/acobaugh/cfengine:3.10.0
 
 MAINTAINER Andy Cobaugh <atc135@psu.edu>
 
